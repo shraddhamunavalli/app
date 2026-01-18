@@ -1,4 +1,4 @@
- from app import square
+from app import square
 
 def test_square():
     result = square(5)
