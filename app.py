@@ -1,2 +1,2 @@
-def square(num):
+def_square(num):
 return num * num
